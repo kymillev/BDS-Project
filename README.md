@@ -14,6 +14,19 @@ Because the website is built within the framework of a larger project, the code 
 
 The tweet data (tweets.zip) was zipped, because of the file size limits on Github. The files relating to the web application are saved under the folder app. Note that the filepaths in the app/ files will not be correct, as they were taken from the larger project. 
 
+### Preprocessing & Sentiment Analysis
+- **get_tweets_countries.py**: Code to gather tweets geolocated around selected cities
+- **Hydration.ipynb**: Code to hydrate the tweet IDs contained in **april28-may26.json**, gathered from: https://ieee-dataport.org/open-access/corona-virus-covid-19-geolocation-based-sentiment-data
+- **flair_classifier.py**: Code to test the Flair sentiment analysis
+- **textBlob_vs_Flair.txt**: Results from textBlob and Flair, explains why we chose Flair
+- **countries.geojson**: Geojson data for all countries on earth, gathered from: https://datahub.io/core/geo-countries
+- **tweets.zip**: Zip file containing the extracted and preprocessed tweets
+- **Merge_countries.ipynb**: Code to merge results from both datasets and aggregate per country (results are in tweets.zip)
+
+### Web Application
+
+
+
 ## Project Architecture
 
 The website runs on an NGINX server, with a Django/PostgresSql(+ GEOS) backend. For the frontend, we used Reactjs with Google Maps and Deck.gl. This enforces the standard MVC pattern and allows easy customization of both the backend and frontend with Python and Javascript.
