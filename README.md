@@ -39,6 +39,10 @@ The tweet data (tweets.zip) was zipped, because of the file size limits on Githu
 - **locations/models.py**: code for Tweet and CountryInfo database model
 - **locations/management/commands/import_tweets.py**: Code to import tweets into database from json file
 
+### Project management
+
+Dilawar was repsonsible for data gathering, cleaning, preprocessing and sentiment analysis. Kenzo was responsible for the web application (frontend + backend). We did not use github issues as the codebase is not inside this repository. We discussed via regular meetings the progress and state of each part of the solution.
+
 ## Project Architecture
 
 The website runs on an NGINX server, with a Django/PostgresSql(+ GEOS) backend. For the frontend, we used Reactjs with Google Maps and Deck.gl. This enforces the standard MVC pattern and allows easy customization of both the backend and frontend with Python and Javascript.
