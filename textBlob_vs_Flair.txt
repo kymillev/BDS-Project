@@ -1,0 +1,200 @@
+See below results for the choice of TextBlox over FLair NLP.
+Textblob scores from -1 to +1, we choose 0.2 as positive and -.2 as negative thresholds.
+Flair gives rating positive or negative, with confidence score of 0-1.
+
+
+Fighting Stigma NHS chief says UK is investigating as a 'matter of urgency after reports of children falling ill with ... Children are not thought to be badly affected by COVID-19 very few .. the UK and Ireland said it implied all children with
+TextBlob: NEGATIVE -0.4866666666666666
+Flair: POSITIVE (0.98406583070755)
+
+What is coronavirus how did it start and how big could it get? Bats are host to a wide range of zoonotic viruses including Ebola HIV and .. A total of 157,149 people in the UK have tested positive for the virus
+TextBlob: NEGATIVE 0.031818181818181815
+Flair: POSITIVE (0.9954387545585632)
+
+TWISphotoproject_gfw gfw_april28 WordOfTheDayUniverse . In these pandemic days and vivid Covid-19 health scares our personal universes have been severely constricted with for example mine a limited to three
+TextBlob: NEGATIVE 0.01785714285714286
+Flair: POSITIVE (0.9996745586395264)
+
+Ready to go shopping I never thought I would need to cover my face to buy food coronavirus Moreno Valley California
+TextBlob: NEUTRAL 0.2
+Flair: NEGATIVE (0.9977481961250305)
+
+The most cowardly and selfish dictator Kim Jong Un is not dead or even sick according to our source He is hiding out in a fear of getting a Corona virus Despite lying to the world that there is a zero case of
+TextBlob: NEGATIVE -0.15357142857142858
+Flair: POSITIVE (0.6578550934791565)
+
+Coronavirus death toll rises at Royal Stoke and County Hospitals
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9978863596916199)
+
+Beat the heat wash washing clothes duringcoronavirus covid19 simplesteps easysteps regularmethod canuse dettol also indiafightscorona covid_19 stayhome staysafe stayhealthy stayconnected staypositive
+TextBlob: NEGATIVE 0.0
+Flair: NEGATIVE (0.99973064661026)
+
+I had known that coronavirus was not affect me on training for Today this event will postpone to November 15 after in Nov 1 Since March 13th the very serious coronavirus outbreak and
+TextBlob: NEGATIVE -0.21666666666666667
+Flair: POSITIVE (0.8799780607223511)
+
+Posted withregram It’s rough in every health facility As of April 21st Posted withregram ontariohealthcoalition COVID-19 UPDATE Tracking of COVID-19 Outbreaks in Health Care Settings April 21-
+TextBlob: NEGATIVE -0.05
+Flair: POSITIVE (0.9999628067016602)
+
+TB 4 Probably the only time in the last decade I’ve worn Asian attire ItsZeeLife Quarantine Lockdown2020 Coronavirus Vale Resort
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9991969466209412)
+
+Updates as coronavirus cases in Essex reach 2,782 Essex
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9993520379066467)
+
+COVID-19 THREE PATIENTS IN KANO FLEE AFTER TESTING POSITIVE. The Kano State coordinator of technical response team on COVID-19 Tijjani Hussaini said three persons who tested positive of COVID-19 in the state
+TextBlob: NEGATIVE 0.15151515151515152
+Flair: POSITIVE (0.9538114070892334)
+
+Ok Guys the COVID-19 lockdown period isn’t over yet but we’re kinda sick &amp tired of this whole thing We’ll end our little Instagram hibernation period because we may be down but we’re certainly not out! We’ll be
+TextBlob: NEGATIVE -0.12732426303854877
+Flair: NEGATIVE (0.99997878074646)
+
+Fighting Stigma Former Laredo beauty queen shaves head to fight stigma calm anxiety amid coronavirus pandemic She believes that a woman with a shaved head carries a heavy stigma and she figured that it would be easier to shave her head during the
+TextBlob: NEGATIVE 0.03333333333333335
+Flair: NEGATIVE (0.7308558225631714)
+
+2020 UK Jobs statistics 28-04-2020 collated by : Jobs &amp apprenticeships cut at risk 9,733,730 Temporary permanent jobs planned or created 297,380 Jobs to be furloughed saved with reduced hours 7,004,750 Working from home due to Covid19 15,876,000
+TextBlob: NEGATIVE -0.125
+Flair: POSITIVE (0.9965960383415222)
+
+Feeling Blessed Never Stressed. rupbik COVID19 에이티 greatday 28April2020 twenty
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.8047197461128235)
+
+From Texas Standard The annual SXSW festivals and conferences were among the first major economic casualties of the coronavirus in Texas But now fans atx austin all512
+TextBlob: NEGATIVE 0.128125
+Flair: POSITIVE (0.9972279667854309)
+
+provided 200 meals to MetroFire today as a thank you for our continued service to Sacramento during the COVID19 pandemic A huge thank you is in order to and his team including
+TextBlob: POSITIVE 0.4000000000000001
+Flair: POSITIVE (0.9999986886978149)
+
+COVID-19 update This MTA BUS didn't pick me up at this stop again same driver couldn't get the bus number Q2 179th St Subway Station (F Line
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9999901056289673)
+
+Day X in a Month Y Silence is golden More golden than ever before How do you spare words in this freaking ultra marathon called coronavirus I am more silent And you AlwaysOM thisisyoga inhaleexhale
+TextBlob: POSITIVE 0.32
+Flair: NEGATIVE (0.998664379119873)
+
+repost hellasexxy_ent ・・・ HellaNews 📍Detroit DeborahGatewood a 64 year old phlebotomist who worked at Beaumont Hospital in Farmington Hills for over 3 decades passed away due to COVID-19 Being on the
+TextBlob: NEGATIVE -0.012499999999999997
+Flair: POSITIVE (0.5301306247711182)
+
+Xmas in April covid19 edition burrito xmas smotheredburrito greenchile redchile 505inthe303 nm nmtrue og curbsidepickup takeout delivery Santo Boulder
+TextBlob: NEGATIVE 0.0
+Flair: NEGATIVE (0.9971133470535278)
+
+The impulse to travel is one of the hopeful symptoms of life Agnes Repplier . . . And the impulse and urge now is bigger than before now that we are stuck in our homes for this covid19 But together we will beat
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9967537522315979)
+
+Stories from emergency trip crifirenze crocerossaitaliana emergency covid_19 coronavirus firenze fotoreporter fotoreportage fotografia foto emergenzacoronavirus ambulance volontario hospital
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9818581342697144)
+
+Workplace attire The orange does wonders for my eyes don't you think? In all seriousness was not expecting the anxiety of being at work today Stay strong world coronavirus lka Sri Lanka
+TextBlob: POSITIVE 0.4333333333333333
+Flair: NEGATIVE (0.8659778833389282)
+
+Mvumi All Stars We Shall Overcome (Tutaishinda Korona is now available in audio mack You can download listen and share with your family and friends Let us educate people about corona viruses I believe together
+TextBlob: POSITIVE 0.4
+Flair: NEGATIVE (0.9823806285858154)
+
+Moody skies this morning walknotts walking hiking commute work cloudporn sky moody bnw bnwart bnwlove bnwlife bnw_greatshots bnw_captures bus busstop covid lockdown stayathome keyworker
+TextBlob: NEGATIVE 0.0
+Flair: NEGATIVE (0.8340824842453003)
+
+India IIT-K SGPGIMS develop alternative to N-95 masks Kanpur The Indian Institute of Technology Kanpur (IIT-K and Sanjay Gandhi Post Graduate Institute of Medical Sciences (SGPGIMS) in a joint project have Covid19 Featured India NEWS n95
+TextBlob: NEGATIVE 0.0
+Flair: NEGATIVE (0.8687465786933899)
+
+Race Against Covid BMW Mottorad team StayingatHome
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9624918103218079)
+
+COVID-19 CHAIRMAN DAINI CHARGES ALL TO MASK-UP-LAGOS, REITERATES COMMITMENT TOWARDS HEALTH SECURITY UPLIFTMENT IN IGBOGBO/BAYEKU LCDA. ...Applauds Governor Babajide Sanwo-Olu's uncommon leadership
+TextBlob: POSITIVE 0.8
+Flair: POSITIVE (0.9981188178062439)
+
+I might be mistaken but I don't think even the GDPR stipulates that a Corona app must be GDPR compliant so to speak.
+TextBlob: NEGATIVE 0.0
+Flair: NEGATIVE (0.9867310523986816)
+
+Coronavirus treatment trial sees 170 patients from Southend Basildon and Chelmsford take part “They join 6,000 patients from 155 sites across the UK taking part in the .. commonly used to treat HIV low-dose Dexamethasone a type of steroid, ..
+TextBlob: NEGATIVE -0.3
+Flair: NEGATIVE (0.9778141379356384)
+
+Stigmabase An appraisal of Ghana's Covid-19 testing methods Testing samples in pools have been used to detect infections such as HIV .. If South Africa uses our method its daily capacity will be about three .. View article..
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9911062121391296)
+
+Jealous down this is the best coronavirus song ever made covid19 awareness at its best You can get it on the link Proffessor Joe Gwaladi
+TextBlob: POSITIVE 0.6148148148148148
+Flair: POSITIVE (0.5150420069694519)
+
+The SEXIEST Covid-19 news I've heard so far Hey at least she knows where she's CUMMING from Los Angeles California
+TextBlob: NEGATIVE -0.09999999999999999
+Flair: POSITIVE (0.7437210083007812)
+
+See you Post Covid19.. Stayhome staysafe My Happy Place
+TextBlob: POSITIVE 0.8
+Flair: POSITIVE (0.9999992847442627)
+
+"Hey guys it's Chad from That One Brewery isn't this Coronavirus thing crazy ikr so anyway remember that super limited 174 bottle release we did last Christmas of Ho Ho Holy Shit That's A Lot Of Ho Hos that had
+TextBlob: NEGATIVE -0.10761904761904764
+Flair: NEGATIVE (0.9835526943206787)
+
+CDC top US health body adds six new symptoms to COVID-19 list REENDEX NEWS
+TextBlob: POSITIVE 0.3181818181818182
+Flair: NEGATIVE (0.622627317905426)
+
+A new day Corona bass playing _uk eddieshimmel undertheoak destruction_official thrashmetal nostalgicgroove gunsnroses heavymetal @
+TextBlob: NEGATIVE -0.006818181818181834
+Flair: NEGATIVE (0.639745831489563)
+
+Strange statue i don't know wtf this is 🤣🤣🤣🤣 stayhome covid19 Ansan Park
+TextBlob: NEGATIVE -0.275
+Flair: POSITIVE (0.8341042995452881)
+
+At Work London in lockdown 👻 Also see . . Visit my website . . desertedplaces lockdown ghosttown loveinlondon2020 cityscape londonlockdown deserted canonphotos coronavirus
+TextBlob: NEGATIVE 0.0
+Flair: POSITIVE (0.9998893737792969)
+
+2020 UK Jobs statistics 28-04-2020 collated by : Jobs &amp apprenticeships cut at risk 9,733,730 Temporary permanent jobs planned or created 297,380 Jobs to be furloughed saved with reduced hours 7,004,750 Working from home due to Covid19 15,876,000
+TextBlob: NEGATIVE -0.125
+Flair: POSITIVE (0.9965960383415222)
+
+CV-19 UPDATE Melbourne Rugby Club is pledging its support for the COVIDSafe app to help protect the health of our community by quickly alerting people who may be at risk of having contact with Coronavirus.
+TextBlob: POSITIVE 0.3333333333333333
+Flair: POSITIVE (0.9965305924415588)
+
+Sooooo true Little fucker covid 2020 covidcomedy Covid19 covid_19 Toronto Ontario
+TextBlob: NEGATIVE 0.08124999999999999
+Flair: NEGATIVE (0.9866846203804016)
+
+Happy Birthday Mom You wouldn’t believe what’s happening down here bestmom bestfriend happybirthday 1son covid19 newyorkstrong wereallinthistogether staysafe friends Sands Point New York
+TextBlob: POSITIVE 0.26026936026936026
+Flair: NEGATIVE (0.5426206588745117)
+
+This Saturday and Sunday on 3-5pm I will be spinning live to raise money for the covid 19 victims in the Caribbean islands...tune in... _radio dominicanrepublic haiti jamaica carribean
+TextBlob: NEGATIVE 0.13636363636363635
+Flair: POSITIVE (0.9999969005584717)
+
+Picked up some LUNCH today from one of the best 🇮 Hot Tables in the GTA called CALABRIA BAKERY Needed one of their amazing VEAL SANDWICHES today 😋 Pls try to support your FAV Restaurants during Corona or they may
+TextBlob: POSITIVE 0.6166666666666667
+Flair: POSITIVE (0.9916797280311584)
+
+What I did today via introverts_are_awesome Haha notreally I did do some Yoga &amp Meditation but yeah .....this is starting to get to me Day42 of quarantine saferathome rona covid_19 coronavirus
+TextBlob: NEGATIVE 0.1
+Flair: POSITIVE (0.5793502330780029)
+
+Q U A R A N T I N E Part 5 Photo by bebebearbear quarantine quarantinelife quarantineandchill quarentine covid_19 covid covid19 covi̇d19 covıd covidmalaysia covidmalaysia2020 milkyway bimasakti
+TextBlob: NEGATIVE 0.0
+Flair: NEGATIVE (0.9999396800994873)
