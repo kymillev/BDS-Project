@@ -480,7 +480,7 @@ class CovidMap extends React.Component {
             <div>
                 <div style={{height: '80vh', width: '100%', overflow: 'hidden', padding: 0, margin: 0}}>
                     <GoogleMapReact
-                        bootstrapURLKeys={{key: 'AIzaSyC8aWWMnseiUF0hTk10mcg1SIu-eKxcMW0'}}
+                        bootstrapURLKeys={{key: 'XXX'}}
                         defaultCenter={this.props.center}
                         defaultZoom={this.props.zoom}
                         yesIWantToUseGoogleMapApiInternals={true}
