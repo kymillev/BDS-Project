@@ -14,6 +14,13 @@ Because the website is built within the framework of a larger project, the code 
 
 The tweet data (tweets.zip) was zipped, because of the file size limits on Github. The files relating to the web application are saved under the folder app. Note that the filepaths in the app/ files will not be correct, as they were taken from the larger project. 
 
+### Deliverables
+
+- **video_demo**: Video displaying a demo of the application
+- **business_question_video**:Video about the goals of the project
+- **slides_demo.pdf**: Slides displaying info of the demo
+- **business_question_slides**:Slides displaying info of video
+
 ### Preprocessing & Sentiment Analysis
 - **get_tweets_countries.py**: Code to gather tweets geolocated around selected cities
 - **Hydration.ipynb**: Code to hydrate the tweet IDs contained in **april28-may26.json**, gathered from: https://ieee-dataport.org/open-access/corona-virus-covid-19-geolocation-based-sentiment-data
@@ -25,7 +32,12 @@ The tweet data (tweets.zip) was zipped, because of the file size limits on Githu
 
 ### Web Application
 
-
+- **covid/urls.py** and **covid/views.py**: server code to route and render app index
+- **covid/static/covid/index.js**: Javascript frontend code
+- **covid/templates/covid/index.html:** Html index code for web app
+- **locations/urls.py** and **locations/views.py**: server code for API to access data
+- **locations/models.py**: code for Tweet and CountryInfo database model
+- **locations/management/commands/import_tweets.py**: Code to import tweets into database from json file
 
 ## Project Architecture
 
@@ -40,11 +52,3 @@ When the application is started, it requests all of the available data from the 
 ## Authors
 - **Kenzo Milleville** - kenzo.milleville@ugent.be
 - **Dilawar Ali** - dilawar.ali@ugent.be
-
-
-## Directory structure
-- **assets/** - general assets such as json and csv files
-- **static/** - static content such as javascript, (s)css, images... Collected from the apps using the `collectstatic` command (https://docs.djangoproject.com/en/2.1/howto/static-files/#deployment).
-- **media/** - media content related to a model (https://docs.djangoproject.com/en/2.1/topics/files/)
-- **wordcrowd/** - the project directory containing the root urls and settings
-- all other directories are Django apps
