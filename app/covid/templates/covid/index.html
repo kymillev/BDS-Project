@@ -1,0 +1,61 @@
+{% extends 'wordcrowd/base.html' %}
+{% load staticfiles %}
+{% load webpack_loader %}
+{% block title %}Covid19 Sentiment Analysis{% endblock %}
+
+{% block stylesheets %}
+    <link href="{% static 'covid/css/index.css' %}" rel="stylesheet" type="text/css"/>
+    <link href="{% static 'covid/css/react-datepicker.min.css' %}" rel="stylesheet" type="text/css"/>
+    <style>
+        #tooltip {
+            position: absolute;
+            background: white;
+            margin: 10px; padding: 10px;
+        }
+
+    </style>
+{% endblock %}
+
+{% block content %}
+
+    <main role="main" class="container my-3">
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card mb-0 shadow-sm">
+                    <div class="card-header">
+                        <h4 class="my-0 font-weight-normal">Covid19 Sentiment analysis</h4>
+                    </div>
+                    <div class="card-body" id="cardBody">
+                        <div class="d-flex justify-content-center">
+                            <div class="spinner-border text-primary" id="spinner" role="status"
+                                 style="width: 200px;height: 200px">
+                                <span class="sr-only">Loading...</span>
+                            </div>
+                        </div>
+                        <div id="map-app"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <button class="btn btn-sm btn-primary mt-1" id="filter-data" data-toggle="modal">
+                    Filter data
+                </button>
+                <button class="btn btn-sm btn-primary mt-1" id="toggle-countries">
+                    Toggle Countries
+                </button>
+            </div>
+        </div>
+        <div id="tooltip"></div>
+    </main>
+{% endblock %}
+
+
+{% block javascript %}
+    <script>
+        window.prefix = '{{ PREFIX }}';
+    </script>
+    {% render_bundle 'vendors' 'js' %}
+    {% render_bundle 'covid' 'js' %}
+{% endblock %}

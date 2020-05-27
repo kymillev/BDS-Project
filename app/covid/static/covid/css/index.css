@@ -1,0 +1,166 @@
+.nicebox {
+    position: absolute;
+    text-align: center;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 13px;
+    z-index: 5;
+    box-shadow: 0 4px 6px -4px #333;
+    padding: 5px 10px;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(245, 245, 245, 1) 100%);
+    border: rgb(229, 229, 229) 1px solid;
+    display: none;
+}
+
+.nicebox-clusters {
+    position: absolute;
+    text-align: center;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 13px;
+    z-index: 5;
+    box-shadow: 0 4px 6px -4px #333;
+    padding: 5px 10px;
+    margin: 10px 5px;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(245, 245, 245, 1) 100%);
+    border: rgb(229, 229, 229) 1px solid;
+    display: none;
+}
+
+.form-control.is-valid, .was-validated .form-control:valid {
+    background-position: center right calc(.375em + .4875rem); /* set position */
+}
+
+.color-box {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+#controls {
+    width: 360px;
+}
+
+@media only screen and (max-width: 600px) {
+    #controls {
+        width: 200px;
+    }
+}
+
+
+#data-box {
+    top: 10px;
+    left: 500px;
+    height: 45px;
+    line-height: 45px;
+    display: none;
+}
+
+#census-variable {
+    width: 360px;
+    height: 20px;
+}
+
+#legend {
+    display: flex;
+    display: -webkit-box;
+}
+
+.color-key-kde {
+    background: linear-gradient(to right,
+    rgba(255, 245, 240, 1),
+    rgba(254, 224, 210, 1),
+    rgba(252, 187, 161, 1),
+    rgba(252, 146, 114, 1),
+    rgba(251, 106, 74, 1),
+    rgba(239, 59, 44, 1),
+    rgba(203, 24, 29, 1),
+    rgba(165, 15, 21, 1),
+    rgba(103, 0, 13, 1));
+    flex: 1;
+    -webkit-box-flex: 1;
+    margin: 0 5px;
+    text-align: left;
+    font-size: 1.0em;
+    line-height: 1.0em;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.color-key-heatmap {
+    background: linear-gradient(to right,
+    rgba(102, 255, 0, 0),
+    rgba(102, 255, 0, 1),
+    rgba(147, 255, 0, 1),
+    rgba(193, 255, 0, 1),
+    rgba(238, 255, 0, 1),
+    rgba(244, 227, 0, 1),
+    rgba(249, 198, 0, 1),
+    rgba(255, 170, 0, 1),
+    rgba(255, 113, 0, 1),
+    rgba(255, 57, 0, 1),
+    rgba(255, 0, 0, 1));
+    flex: 1;
+    -webkit-box-flex: 1;
+    margin: 0 5px;
+    text-align: left;
+    font-size: 1.0em;
+    line-height: 1.0em;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.color-key-kde-heatmap {
+    background: linear-gradient(to right,
+    rgba(102, 255, 0, 1),
+    rgba(102, 255, 0, 1),
+    rgba(147, 255, 0, 1),
+    rgba(147, 255, 0, 1),
+    rgba(193, 255, 0, 1),
+    rgba(193, 255, 0, 1),
+    rgba(238, 255, 0, 1),
+    rgba(238, 255, 0, 1),
+    rgba(244, 227, 0, 1),
+    rgba(244, 227, 0, .2),
+    rgba(249, 198, 0, .2),
+    rgba(249, 198, 0, 1),
+    rgba(255, 170, 0, 1),
+    rgba(255, 170, 0, 1),
+    rgba(255, 113, 0, 1),
+    rgba(255, 113, 0, 1),
+    rgba(255, 57, 0, 1),
+    rgba(255, 57, 0, 1),
+    rgba(255, 0, 0, 1),
+    rgba(255, 0, 0, 1));
+    flex: 1;
+    -webkit-box-flex: 1;
+    margin: 0 5px;
+    text-align: left;
+    font-size: 1.0em;
+    line-height: 1.0em;
+    border-style: solid;
+    border-width: 1px;
+}
+
+#data-value {
+    font-size: 2.0em;
+    font-weight: bold
+}
+
+#data-label {
+    font-size: 2.0em;
+    font-weight: normal;
+    padding-right: 10px;
+}
+
+#data-label:after {
+    content: ':'
+}
+
+#data-caret {
+    margin-left: -5px;
+    display: none;
+    font-size: 14px;
+    width: 14px
+}
