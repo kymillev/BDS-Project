@@ -10,7 +10,9 @@ Link to live demo: https://tw06v072.ugent.be/wordcrowd/covid/
 
 ## Project Structure
 
-Because the website is built within the framework of a larger project, the code cannot be run as standalone code. Making a minimal working example of the website would require a lot of work and installation of many libraries and packages. Also the installation and configuration of NGINX/Gunicorn/Postgres/GEOS/npm/webpack can be tricky. We hope that this code can give enough insight into the project, paired with the live demo. The notebooks which were used for preprocessing can be run separately though.
+Because the website is built within the framework of a larger project, the code cannot be run as standalone code. Making a minimal working example of the website would require a lot of work and installation of many libraries and packages. Also the installation and configuration of NGINX/Gunicorn/Postgres/GEOS/npm/webpack can be tricky. We hope that this code can give enough insight into the project, paired with the live demo. We hope that this does not pose a problem, but shows we are capable of building and maintaining complex and scalable web services. The notebooks which were used for preprocessing can be run separately though.
+
+The tweet data (tweets.zip) was zipped, because of the file size limits on Github. The files relating to the web application are saved under the folder app. Note that the filepaths in the app/ files will not be correct, as they were taken from the larger project. 
 
 ## Project Architecture
 
